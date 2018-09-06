@@ -18,4 +18,4 @@ def last_element(array)
   array[-1]
 end
 
-def 
+def first
